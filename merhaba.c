@@ -1,7 +1,7 @@
 char* Merhaba()
 {
     return "\
-Merhaba\n\
-Sırasıyla girilecek 2 Tam Sayı toplanacaktır.\n\
+        MERHABA\n\
+Sirasiyla girilecek 2 Tam Sayi toplanacaktir.\n\
 ";
 }

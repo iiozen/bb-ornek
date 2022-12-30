@@ -12,6 +12,6 @@ int main()
 
     float toplam;
     toplam = Hesapla(dizi);
-    printf("\n\nGirilen Sayıların Toplamı: %.2f\n",toplam);
+    printf("\n\nGirilen sayilarin toplami: %.2f\n",toplam);
 }
 
